@@ -1,6 +1,6 @@
 # Checking / showing open access status within the library's catalog
 
-I wanted to use [Directory of Open Access Journals](https://doaj.org) (DOAJ) or [Directory of Open Access Books](https://doabooks.org) (DOAB) to check whether a journal or book in our OPAC is open access (OA) or not. This is particularly valuable for our users because a number of resources are OA but mixed in with other non-OA materials on a platform provided via ProQuest, which is IP-authenticated. On campus users wouldn't notice, but remote users who couldn't access ProQuest were also barred from access to the OA materials.
+I wanted to use [Directory of Open Access Journals](https://doaj.org) (DOAJ) or [Directory of Open Access Books](https://doabooks.org) (DOAB) to check whether a journal or book in our OPAC was open access (OA) or not. This is particularly valuable for our users because a number of resources are OA but mixed in with other non-OA materials on a platform provided via ProQuest, which is IP-authenticated. On campus users wouldn't notice, but remote users who couldn't access ProQuest were also barred from access to the OA materials.
 
 I must note that while the original request to somehow highlight OA materials in our catalog originally came from a faculty member, the idea to directly query and link to DOAJ/DOAB cam from the [Open Library Badge](https://badge.openbiblio.eu) initiative.
 
